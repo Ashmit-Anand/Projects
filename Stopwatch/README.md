@@ -11,8 +11,8 @@ A simple stopwatch application developed using MIT App Inventor.
 
 ## Files
 
-- `Stopwatch.aia` — MIT App Inventor source project
-- `Stopwatch.apk` — Android application
+- `stopwatch.aia` — MIT App Inventor source project
+- `stopwatch.apk` — Android application
 
 The apk file can be downloaded on an android mobile phone and run.
 
