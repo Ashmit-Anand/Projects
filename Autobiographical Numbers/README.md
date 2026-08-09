@@ -11,3 +11,18 @@ Example
 Therefore, 1210 describes the frequency of each digit in itself.
 
 Below is the code that generates an autobiographical number based on the length of the number entered by the user.
+
+
+## Example Outputs
+
+### Example 1
+![Example 1](screenshots/1.png)
+
+### Example 2
+![Example 2](screenshots/2.png)
+
+### Example 3
+![Example 3](screenshots/3.png)
+
+
+  
